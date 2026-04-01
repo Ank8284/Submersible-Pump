@@ -130,6 +130,21 @@ Pump (30 ft below ground)
 - High risk of repeat failure due to backspin and water ingress.
 
 ---
+## 10. Cost Estimate for Additional Components
+
+| Component | Status | Estimated Cost | Notes |
+|-----------|--------|----------------|-------|
+| **Heavy-Duty Non-Return Valve (NRV)** | Needed | ₹500 – ₹1,500 | Brass/CPVC NRV sized for discharge line. Prevents backspin and reverse flow. |
+| **Digital Relay Panel** | Already Present | — | No cost; ensure overload, restart delay, and dry-run features are calibrated. |
+| **Sand Guard / Steel Net Segments** | Already Present | — | No cost; continue periodic inspection for clogging or wear. |
+| **Silicon Carbide (SiC) Mechanical Seal Kit** | Upgrade | ₹800 – ₹1,500 | More durable than carbon seals, resists sand abrasion. |
+| **Preventive Borewell Flushing** | Optional | ₹1,500 – ₹3,000 | Recommended if silt load increases; not mandatory if borewell is stable. |
+
+**Total Estimated Upgrade Cost:**  
+- Minimal Upgrade (NRV + SiC seal): ~₹1,500 – ₹3,000  
+- With Preventive Flushing: ~₹3,000 – ₹4,500  
+
+---
 
 ## Conclusion
-The premature failure was caused by vibration-induced seal damage, water ingress, sludge formation, reverse rotation, inadequate relay protection, and plastic lead expansion. A single check valve at the pump discharge, upgraded seals, and improved electrical protection are mandatory. Future upgrades should focus on digital protection and water-filled motor technology if sand persists.
+The premature failure was caused by vibration-induced seal damage, water ingress, sludge formation, reverse rotation, inadequate relay protection, and plastic lead expansion. A single check valve at the pump discharge, upgraded seals, and improved electrical protection are mandatory. With the current setup already including a digital relay panel and sand guard, the most cost-effective upgrade path is adding a **check valve** and **SiC mechanical seal**, with optional borewell flushing if silt load increases.
